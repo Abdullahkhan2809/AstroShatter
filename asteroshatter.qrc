@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/asteroshatter"/>
+    <qresource prefix="/images">
+        <file>asteroid.png</file>
+        <file>player.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
