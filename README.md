@@ -7,7 +7,7 @@
 <h1>🌌 AstroShatter</h1>
 
 <p><strong>AstroShatter</strong> is a fun, fast-paced <strong>arcade-style shooter game</strong> built with <strong>C++, Qt Widgets, and CMake</strong>.<br>
-Your mission: <em>destroy big asteroids before they pass by</em>. If even a single asteroid escapes, the game ends! Survive as long as you can and set a new high score.</p>
+Your mission: <em>destroy big asteroids before they pass by</em>. If three asteroid escapes, the game ends! Survive as long as you can and set a new high score.</p>
 
 <h2>🎮 Gameplay</h2>
 <ul>
